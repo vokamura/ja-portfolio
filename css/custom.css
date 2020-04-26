@@ -1,0 +1,9 @@
+/* your styles go here */
+/* .page-holder {
+    color: #0894fd;
+} */
+
+.sidebar-link.active, .sidebar-link:hover, .sidebar-inner .px-4.py-5 p, .sidebar-inner .px-4.py-5 p.active:hover, .sidebar-inner .px-4.py-5 p.active:focus{ 
+    color: #0894fd;
+    text-decoration: none;
+}
